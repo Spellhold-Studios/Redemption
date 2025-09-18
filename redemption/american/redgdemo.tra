@@ -1,0 +1,50 @@
+@250  = ~Not so fast godling! It seems Amelyssan is willing to gamble with something that is not truly hers. The petitioner is ours by right. We are the dual-willed Prince of the Abyss, Master of the bizarre, the King of aberrations; there is nothing more appealing to us than a corrupted elven high mage! Irenicus was sentenced to the Blood War for eternity, and we still have need of him. We were willing to lend his essence to the priestess of Bhaal for a time, for the sake of retribution and promised future alliances. But not anymore! The elven warlock is a valuable asset, and the one we will not risk losing without extracting a payment.~
+@251  = ~Do you crave your ultimate destruction, hellspawn? I shall grant you this desire, since you have now entered the Throne of Blood, one demiplane of the Abyss where my powers are superior to yours, and where I can grant you the true death!~
+@252  = ~You dare speak to us in this insolent manner, mortal? Powerful though you are, you are not a god yet. You ignorance is pathetic. No one can destroy us while we are away from our plane, not even you, since our immortality is welded to the very stones of Ungorth Reddik – our old stronghold in the deepest, foulest mire of the Abyss. Ah, we see you tremble at the name, petitioner. We trust you remember well the short span spent in our care. Too bad, we were busy adjusting to our abyssal realm after our release from Helm’s prison by <CHARNAME>. It is time for you to come back to the place of your ultimate punishment, and this time we promise you our personal attention. Hand Irenicus over <CHARNAME>, and we shall depart without causing you more trouble. You and us both have powerful enemies, and we are aware of your growing influence. There is no need for another confrontation.~
+@253  = ~(left head)
+I told you <PRO_HESHE> is not going to buy this! But would you ever listen to reason? No, you always have to do it your way!~
+@254  = ~(right head) 
+Be quiet, imbecile! Let me handle this. Remember – we always have to stay logical. The Bhaalspawn would not want another fight with us on <PRO_HISHER>  hands, <PRO_HESHE> has other priorities. If you stop whining and cooperate, we may yet get the upper hand.~
+@255  = ~(left head) 
+That is what you always say! I want out of here now. Why do I always have to follow in your inane schemes?~
+@256  = ~(right head) 
+Because you have no other choice, weakling, and neither do I! Now, stop your pathetic complains and listen to your betters!~
+@257  = ~<CHARNAME>, you hold something that is ours, and yet you refuse to give it up. It seems we have no other option but an open contest. There are rules to follow in a duel like this, rules that even a Tanar’ri Prince cannot but obey. We are aware of your prowess as a fighter, and since this is your domain (although yet disputed), we suppose you could best us yet again. But it will cause us greater loss in reputation if we let the things stand as they are. Therefore, we are going to offer you a choice of methods to resolve this little issue.~
+@258  = ~Will you fight us for the petitioner’s essence or would you honor yourself by agreeing to follow an ancient Ritual of Three Riddles?~
+@259  = ~Riddles? What do you mean by this?~
+@260  = ~We shall ask you three riddles, <CHARNAME>. If you answer all of them correctly, we shall accept your supremacy, and it will be known across the Planes that you have beaten the Prince of Demons in his own game not once but twice! You will keep the petitioner and have our unwavering obedience for a thousand years. But if you fail, the price would be your soul, Bhaalchild!~
+@261  = ~I have no taste for intellectual games with demons, hellspawn. Let’s resolve this in an open combat!~
+@262  = ~Very well, I am taking my chances. Ask away!~
+@263  = ~Let me ask you the first riddle, godling: What is it that is greater in wickedness and more powerful demon than us; the dead eat it; and yet if the living eat it, they die?~
+@264  = ~What a nonsense! This riddle has no answer! Nothing can be more vile than you, and it is preposterous to give another answer!~
+@265  = ~Perhaps, Orcus? The other Demon Prince?~
+@266  = ~Graz’zt the six-fingered!~
+@267  = ~I know <PRO_HESHE> cheated!~
+@268  = ~The second riddle is simple – each of our heads has a name, one is known as Aameul, the other is Hethradiah. You can ask us one question to which we shall answer a simple *yes* or *no*. After this, you should be able to tell us, which head you have spoken to!~
+@269  = ~Silence, petitioner! You shall pay for this! We think he just made your task too easy, <CHARNAME>. Therefore, we swear by our immortality that one of us will answer the truth!~
+@270  = ~Who is lying then?~
+@271  = ~(left head) My brother is the liar!~
+@272  = ~(right head) We both are telling the truth!~
+@273  = ~Ask left head: It is true that your name is Aameul?~
+@274  = ~Ask left head: It is true that your name is Hethradiah?~
+@275  = ~Ask right head: It is true that your name is Aameul?~
+@276  = ~Ask right head: It is true that your name is Hethradiah?~
+@277  = ~yes~
+@278  = ~The head that I spoke to is named Hethradiah~
+@279  = ~The head I spoke to is named Aameul~
+@280  = ~no~
+@281  = ~You are right again, mortal <PRO_MANWOMAN>, but the third time is not going to be that easy!~
+@282  = ~There is one and only question that exists in the Multiverse to which we will be forced to answer truthfully if we want to stay logical, even if we wished to lie to you, <CHARNAME>. And since we have to stay logical to keep both of our minds from separating forever, we will have to answer the truth. What is it?~
+@283  = ~This question is : Are you the most powerful demon of the Abyss?~
+@284  = ~This question is : Will you answer anything to this question?~
+@285  = ~This question is : Will you answer ‘yes’ to this question?~
+@286  = ~This question is : Will the Universe be destroyed if the Blood Wars ever stops?~
+@287  = ~This question is : What is your true name?~
+@288  = ~This question is : What is the ultimate truth?~
+@289  = ~This question is : What is my true name?~
+@290  = ~This question is : Will you answer ‘no’ to this question?~
+@291  = ~(Hethradiah)
+Cheater and fraud! You knew the answer all along!~
+@292  = ~(Aameull)
+I told you <PRO_HESHE> was devious! Now what do we do?~
+@293  = ~Begone, demon spawn! I have no need of you now, but I sure will call for your services, as soon as I am done reclaiming my birthright!~

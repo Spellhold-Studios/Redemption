@@ -1,0 +1,338 @@
+                   Baldur's Gate II: Throne of Bhaal: Ascension v1.4.xx: Redemption
+                                         ----------------------
+                                            [Redemption v1.2.0]
+                                         -----------------------
+                            Janetta A. Bogatchenko ladydorotea@hotmail.com
+
+                                      http://www.onlinefiction.net/Redemption/Redemption.html 
+
+                                            Table of contents
+                                            ~~~~~~~~~~~~~~~~~
+
+I.     About
+II.    Requirements
+III.   Installation
+III.a  Components
+IV.    The Single Component : Redemption mod
+V.     History of fixed bugs
+UI.    My Thanks
+UII.   Spoilers
+VIII.  Cheats
+
+                                         About:
+                                         ~~~~~~
+This mod was written and coded by me, Janetta A. Bogatchenko. So I guess all the blame is mine, both for the  
+content and the bugs that I was not able to find yet.
+
+The Redemption mod is basically an addition to Ascension mod by Dave Gaidar and Co. I did not meddle much  
+with their excellent storyline, but added material that includes possible recruitment to PC's case and  
+redemption of Jon Irenicus - the evil genius of the SoA. This gives your character an opportunity to re-visit SoA plot, that on my opinion (and many others) was left incomplete. See the Spoilers section for more  
+details.
+
+The Redemption is not playable without Ascension and I want to praise all the people whose labor that was involved in creating it! It is a remarkable product, that enhanced my experience with SoA-ToB and to wich this mod is but a humble addition.  
+
+Please see the Ascension documentation for Ascension content. 
+
+
+                                       Requirements:
+                                       ~~~~~~~~~~~~~
+If you have both ToB 
+
+and 
+
+Ascension v1.4.xx 
+
+from http://www.cs.berkeley.edu/~weimer/bgate installed, you should be able to play this mod.
+
+Please check out the Ascension documentation to understand the hardware 
+limitations you may face! The Ascension is very heavy on graphics, and some of 
+the scenes from the final battle may be slow. Same is true for the cutscenes 
+from Redemption.
+
+                                        Installation:
+                                        ~~~~~~~~~~~~~
+
+Redemption mod should install properly over any other mods if you have both ToB and Ascension/Weidu installed  
+prior to installing it. It will work fine with all common WeiDU mods (e.g., the Solaufein
+Romance, the Kelsey Romance, the Tashia Romance, the Thief Stronghold, Items Upgrade etc.).
+
+To INSTALL the mod extract the archived files from Redemption download into your 
+main BG II-SoA directory keeping the pathnames for all the files. 
+
+After you done this you shall have a new folder called ‘redemption’ in you BG 
+II-SoA main directory and the files called :
+
+Setup-Redemption.exe and  Setup-Redemption.tp2
+
+DO NOT REMOVE THESE FILES!
+
+Run ‘Setup-Redemption.exe’ executable from your BGII-SoA folder and follow the 
+instructions in the DOS window. 
+
+To UNINSTALL  the mod simply run the ‘Setup-Redemption.exe’ executable again and 
+select the ‘Uninstall’ option. You should be all set.
+
+If you want to make sure you removed all traces of the mod from your system ,
+delete all the contents of your ‘override’ folder and your dialog.tlk and 
+extract the archived versions of your files. 
+
+You can start the new ToB game with Ascension and Redemption installed or 
+continue from the save game ‘before’ you have entered the Throne of Bhaal.
+
+					Components
+					~~~~~~~~~~
+
+There are now two components in this package. The mod itself with 2 language options and the new portrait for Jon Irenicus extracted from the SoA introduction movie. I think he looks rather scary and tragic on this one whereas the 'traditional' one is a bit comic. But you can judge for yourself and uninstall it if you don't like it.
+
+
+                                        Redemption
+                                        ~~~~~~~~~~
+The mod itself took about a month to write (and a year to think about prior to it) and three months to code, as I was not very proficient with WEIDU, although I do have a strong programming background. As for my writing background - I have none save for 2 years of writing SoA based fanfictions. You can find some on my web page, if you are interested. 
+
+The whole idea of this mod is summarized in its name I guess, since it is all about Redemption of Jon Irenicus, the elven mage who wanted to become a God and doomed himself to eternity by committing a string of unforgivable crimes against both elven society and later many innocent people (your main character included).
+Still, there were many discussions on the net about Jon, and the possibility of his redemption. I never liked him much, but one day Dave Gaidar suggested a topic in the Attic (if you are not familiar with the Attic - it is a messageboard for BG fans who write fanfiction that can be found at http://www.gamejag.com/Attic) that captured my imagination. The topic was as you can imagine - Irenicus and the history of his downfall. Sufficient to say that I wrote a lot of fiction about Jon before I came up with the idea for the mod. The text of Redemption was published in the Attic and amazingly - received many warm responses. I ended with ditching all my other responsibilities for three months and coding it into playable mod.
+
+The mod gives you an opportunity upon entering the Throne of Blood to talk Irenicus into siding with you, playing on his sense of wounded pride by reminding him that Melissan goaded him into cooperation. After you defeat all possible and impossible enemies (including some new appearances by old foes) and right before you are to make a final choice about your Bhaal essence Jon will speak to you and request that you keep your word and petition the Seldarine for another trial for him. The result is rather unexpected, and very different from what he hoped for. But I am not going to disclose it here! 
+
+Another face (or rather two) to show unexpectedly in this addition is our old friend - the Prince of Demons. Demogorgon gives his little performance and asks you some unexpected questions before engaging in yet another battle. It is possible to humiliate him without actual combat. The puzzles used in this part are shamelessly taken from the books by Raymond Smullyan (Satan, Cantor, and Infinity and The Riddle of Scheherazade), the Demogorgon dual personality is described in the latest Wizards edition of Book of Vile Darkness.
+
+
+                                        History of fixed bugs and new options
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I am extremely embarrassed to report a major bug fix in v1.1.1
+All previous Redemption versions did not have the music file activated due to lack of proper Weidu documentation
+and my own Weidu-illiteracy. I have to apologize to the players and beg Weimer to include the ADD_MUSIC command
+description to the future Wedu releases to prevent something like this happening to other modders.
+
+After beta-1,2 versions, the following changes were made:
+
+1.  Fixed the Imoen not turning back to human after all enemies are dead bug
+2.  Changed the way the Ar6200 bcs file is modified so that other epilogues are not removed
+3.  Added 'Irenicus in party' trigger to Imoslay.bcs file ( this should also fix 
+    the energy pool Bodhi Great Restoration bug)
+4.  Irenicus got his spell list fixed and updated ( he now has all contingencies and triggers you want)
+5.  Removed odd Lightening Aura spell (that was a spell from Abazigail inserted by mistake)
+6.  Changed some of the selection sounds
+7.  The nightmare babau in the cutscene now is named
+8.  Irenicuses wands are now droppable as well as all his other equipment
+9.  Removed some minor bugs from the spell list
+10. The Stoneskin necklace is now Irenicus only item.
+11. Added some fixes to after the Demogorgon challenge scripts (no end battle fix, etc)
+12. Attention! Imoen fight timer as a Slayer is shorter in the Redemption, this is not a bug. I did it for roleplaying. As many people who wanted to play the Redempion despaired to finish it without cheating.
+13. Fixed the game lock if Anomen is in the party without romance bug. Thanks Laufey!
+14. Few minor dialog corrections and additions: 
+---------------------------------------------------
+PC to Irenicus: You have no soul, *do* you? Not 'don't you'. 
+
+Irenicus: Do you wake up in *a* cold sweat 
+
+Imoen: Push *up* the daisies 
+
+PC upon seeing Joneleth: 'with *the* high cheekbones and delicate ears of an elf' 
+
+the shrieks resemble *those* of an animal 
+
+Anomen (no romance):
+
+Verily, even an evil genius such as Irenicus was could be redeemed at the end. I would have to say my prayers to the Vigilant One and contemplate on this, <CHARNAME>.
+---------------------------------------------------
+In version 1.1.0 
+
+15. Fixed two minor bugs with the script files being overwritten and the generic xxxxxx number replaced with specific strings thism resulted in music not playing in some of the installations and Demogorgon displaying the wrong text string.
+16. Fixed spelling of the name Amelyssan in the Demogorgon dialog. Thanks Gospel! Also that same dialog had a <CHARNAME> label misspelled which resulted in blank space instead of character name.
+17. Changed the coding of the npcs banters at the end of the Solar dialor. Now it takes advantage of the CHAIN and CHAIN3 commands. This was especially helpful for Jan dialogs since they are so long. Thanks Weimer!
+18. Created the tra files for the multilingual installation option. Thanks jcompton!
+19. Spanish Translation is now available thanks to Clan DLAN and Immortality (http://jedi.no-ip.org/belmont/dlan/estoes/proyectos.htm)
+--------------------------------------------------
+In version 1.1.1 - 1.1.2
+
+20. The music in the Redemption scene should finally be playing through the cutscene.
+21. In Irenicus leave-the-party dialog it is 'renege' not 'reneg' - thanks Maus!
+
+22. Version 1.1.2 has French translation and new portrait options.
+23. Version 1.1.3 has German translation and minor modification to the add music code.
+--------------------------------------------------
+
+                                                Attention
+                                               ~~~~~~~~~~~
+I believe 1.1.3 maybe the last version of this mod in the near future. I am currently working on the new mod - Redemption the Longer Road that will give you Jon in the party for entire ToB part of the game.
+
+--------------------------------------------------
+In version 1.2
+
+24. Added Irenicus inventory bam - it was made for LR/Rt but I added it to Redemption as well.
+
+25. Amulet of stone skin has new bam
+
+26. Irenicus now has 2 stars in daggers
+
+27. Fixed minor typos - thanks Caedwyr!
+
+28. New portrait is now the one from the 'Jon with the flame' poster by Bio.
+
+
+                                                 My Thanks
+                                                 ~~~~~~~~~
+My thanks go to many people without whom this mod would not be possible! I cannot list all of you but I definitely try my best.
+
+First of all - the team of Attic writers and readers among them :
+
+* Zan - my first and best beta reader ever, Master of literary english and editor
+
+* Laufey - for many encouragements and help with spelling
+
+* Lotta Rotti aka LordE - spell check and useful discussion
+
+* Lis Morris aka Ophidia who helped me format and package the music files, I would not be able to do it without her!
+
+* Arcalian - discussions and spellcheck
+
+* Silver - discussions and encouragements
+
+* Weyoun -- discussions and encouragements
+
+* Quijote3000 - for borrowing Korgan's banter line from him!
+
+And many others, some of whom I may have missed. Sorry guys!
+
+
+Secondary my beta testers and Weidu wizards:
+
+* Wes Weimer - whom I plagued incessantly with emails, and always got responses, to my utter amazement. I don't think I would have finished coding without his sagely advice.
+
+* Jason Compton - who was kind enough to help with my newbie-like questions
+
+* Japeth - good advice and many useful solutions
+
+* Kish - the best ever tester from Forgotten Wars Forum, who found most of the bugs and gave me some excellent ideas
+
+* Strange Girl 
+
+* LordE
+
+* Delvar
+
+* Michel who helped me set up the first discussion board at http://www.rpgtalk.com/viewforum.php?f=26 
+
+My special thanks go to :
+
+* Dave Gaidar - firstly for suggesting the topic of the Attic quiz that triggered the thought process that resulted in writing this mod, secondary for writing the Ascension, that I think is the best BG II expansion ever, and thirdly for sending me a word of encouragement when I needed it badly.
+
+* All translators in the translation list:
+
+Traducción al Español (hecha por Clan DLAN & Immortality)
+
+         
+Francais (traduction de Nickolas Bard the 'Cocobard', Jean Trouveroy 'the Cursed')
+
+        
+Deutsche Sprache (sbersetzung durch Maus & Dyara)
+
+
+
+                                                 Spoilers
+                                                 ~~~~~~~~
+
+This part contains some spoilers for the plot, so if you do not wish to know 
+about them, do not read it. 
+
+You can only have Irenicus in the party if your PC is
+
+(1) Non-evil
+(2) Has wisdom check OR intelligence check  => 12, (12 will do)
+(3) You only have 5 or less members in your party when entering the Throne of 
+Bhaal ( Area AR6200)
+
+If you satisfy these criteria, the solar will give you a hint before saying the 
+final lines of her dialog.
+
+There is no way you can get Jon unless you satisfy these conditions. Once you 
+got him, you cannot drop him till the bitter end. Evil grin. You will have 
+plenty of chance to refuse him. It is not very straightforward to get him into a 
+party but do-able.
+
+The riddles of Demogorgon are really simple, except maybe the last one. A hint - one of the heads is telling  
+the truth the other one is lying, then how come one is saying we are both telling the truth? Other hint - think if he can answer truthfully by saying 'yes' or 'no' on a  
+questions like * Will you answer 'yes'? * or * Will you answer 'no'? *
+
+                                          Cheats:
+                                          ~~~~~~~
+
+ENABLING THE CHEAT KEYS FOR TESTING
+
+If you are having difficulties playing through the mod and defeating your 
+enemies but want to finish the Redemption anyway to see the finals ,you can use 
+the CLUAConsole commands to speed up your battles. After all ,this is only the 
+beta test!
+
+In order to be able to access the cheat keys you will need to modify your ini 
+file. I am including the section from Team BG document on how to use 
+CLUAConsole.
+
+************************************************************************
+- Go to your Baldur's gate 2 directory, and open the file Baldur.ini (a notepad 
+file with a gold cog).
+You now have two options:
+- Scroll down to the "Game Options" heading and add the line: "Cheats=1" (case 
+sensitive) underneath.
+- Now go in game, opening any saved game. Press CTRL and SPACE BAR at the same 
+time. A text box will pop up at the bottom. Type 
+"CLUAConsole:EnableCheatKeys(1);" into the box and press ENTER. Now Type the 
+line "CLUAConsole:". Any of the commands below may be used after the colon.
+OR
+- Under the "Program Options" heading add the line: "Debug Mode=1" (case 
+sensitive) underneath. Save. Now open BG2 and load any saved game. Press CTRL 
+and SPACE BAR at the same time. A text box will appear. Now Type the line 
+"CLUAConsole:". Any of the commands below may be used after the colon.
+COMMANDS
+
+************************************************************************
+Just type these commands after the first portion of the Command, given in the 
+instructions for each game. There should be no spaces and the commands are case 
+sensitive, although the file names are not. Press enter to finish the command.
+CLUAConsole:CreateItem("xxxxxxxx")
+Replace xxxxxxxx with an item filename. Item filenames may only be a maximum of 
+8 letters long! The item will appear in the first empty backpack slot in your 
+party.
+CLUAConsole:CreateCreature("xxxxxxxx")
+NOT AVAILABLE FOR ICEWIND DALE, HEART OF WINTER OR TRIALS OF THE LUREMASTER
+Creates a Creature, centre screen, into the game. xxxxxxxx is the creature 
+filename, which may only be up to 8 letters long.
+MoveToArea("AR####")
+Moves the entire party to the specified area file. Although I give the example 
+"AR####" that is for only the in-game areas. Custom made areas put together by 
+people here at TeamBG or elsewhere may not use the "AR" part. #### is always 
+four numbers.
+SetCurrentXP(##)
+Sets the party's experience to the number specified. Simple as that.
+SetGlobal("name","YYYYYY",#) 
+This changes the chosen Global. YYYYYY is GLOBAL, LOCAL or an area filename 
+(AR####). "name" is name of the Global and # is the number to set the Global 
+too.
+eg. for BG2:
+CLUAConsole:SetGlobal("TeamBG","GLOBAL",1)
+AddGold(####)
+Adds #### gold to the party's total. #### are of course numbers.
+ExploreArea()
+Removes all unexplored (black) areas from the map.
+SetWeather(#) 
+Use one of the following 3 settings for #: 
+0 - No Weather 1 - Rain 2 - Snow
+AddSpell("xxxxxxxx") 
+Where xxxxxxxx is a spell file code 
+Note: the cursor must be over the person who you want to get the spell and the 
+spell will be memorized in all empty slots and added to the spell book
+************************************************************************
+
+The simplest way to ease your way through the game is to target creature with 
+mouse pointer and use Cltr-Y key to instant-kill it. Cltr-R key will heal and 
+resurrect any party member or enemy targeted with the mouse pointer. 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+@250  = ~Nicht so schnell, Abkömmling eines Gott! Es scheint, dass Amelyssan um einen Einsatz spielt, der ihr gar nicht gehört. Wir haben das Recht an dem Kandidaten. Wir sind der zweiköpfige Prinz des Abyss, Meister des Bizarren, der König der Verwirrung; es gibt nur wenig, was wir köstlicher finden, als einen verderbten elfischen Magier! Irenicus wurde auf alle Ewigkeit zur Teilnahme am Blutkrieg verdammt und wir benötigen ihn immer noch. Wir waren damit einverstanden, seine Essenz einer Priesterin des Bhaal im Ausgleich für das Versprechen einer zukünftigen Allianz für einige Zeit zur Verfügung zu stellen. Aber nun nicht mehr! Dieser elfische Teufel ist ein sehr wertvoller Verbündeter und wir werden seinen Verlust nicht ohne irgendwelche Kompensationen riskieren.~
+@251  = ~Verlangt es Euch nach Eurer endgültigen Vernichtung, Ausgeburt der Hölle? Ich werde Euch diesen Wunsche gewähren, da Ihr es gewagt habt, den Thron des Blutes, diese Teilebene des Abyss, in der meine Kräfte die Eurigen übertreffen und ich Euch den endgültigen Tod bringen kann, zu betreten!~
+@252  = ~Ihr wagt es, solch despektierliche Worte zu äussern, Sterblicher? Ihr habt in der Tat eine grosse Macht, aber noch seid ihr kein Gott. Eure Ignoranz ist geradezu mitleiderregend. Niemand kann uns ausserhalb unsere Ebene zerstören, nicht einmal Ihr, da unsere Unsterblichkeit mit den Steinen von Ungorth Reddik, unserer Festung in den tiefen und stinkenden Sümpfen des Abyss, verbunden ist. Ah, wir sehen, dass Ihr schon bei der blossen Erwähnung des Namens anfangt zu zittern, Verbannter. Wir nehmen an, dass Ihr Euch an die kurze Zeit in unserer Obhut erinnert. Wie schade, wir waren damals damit beschäftigt, unser Reich im Abyss zu ordnen, nachdem wir von <CHARNAME> aus Helm's Gefängnis befreit worden waren. Es ist nun an der Zeit, dass Ihr wieder zum Ort Eurer entgültigen Bestrafung zurückkehrt und seid gewiss, dass wir persönlich darüber wachen werden. Übergebt uns Irenicus <CHARNAME>, und wir gehen einfach und machen keine Schwierigkeiten mehr. Ihr und wir, beide haben wir mächtige Feinde und wir sind uns über Euren wachsenden Einfluss im Klaren. Wir müssen keinen Streit anfangen.~~Ihr wagt es, solch despektierliche Worte zu äussern, Sterbliche? Ihr habt in der Tat eine grosse Macht, aber noch seid ihr kein Gott. Eure Ignoranz ist geradezu mitleiderregend. Niemand kann uns ausserhalb unsere Ebene zerstören, nicht einmal Ihr, da unsere Unsterblichkeit mit den Steinen von Ungorth Reddik, unserer Festung in den tiefen und stinkenden Sümpfen des Abyss, verbunden ist. Ah, wir sehen, dass Ihr schon bei der blossen Erwähnung des Namens anfangt zu zittern, Verbannter. Wir nehmen an, dass Ihr Euch an die kurze Zeit in unserer Obhut erinnert. Wie schade, wir waren damals damit beschäftigt, unser Reich im Abyss zu ordnen, nachdem wir von <CHARNAME> aus Helm's Gefängnis befreit worden waren. Es ist nun an der Zeit, dass Ihr wieder zum Ort Eurer entgültigen Bestrafung zurückkehrt und seid gewiss, dass wir persönlich darüber wachen werden. Übergebt uns Irenicus <CHARNAME>, und wir gehen einfach und machen keine Schwierigkeiten mehr. Ihr und wir, beide haben wir mächtige Feinde und wir sind uns über Euren wachsenden Einfluss im Klaren. Wir müssen keinen Streit anfangen.~
+@253  = ~(linker Kopf)
+Ich habe es dir ja gesagt, dass <PRO_HESHE> uns das nicht abkaufen wird! Aber hast du je auf die Vernunft gehört? Nein, du musst es immer auf deine Art machen!~
+@254  = ~(rechter Kopf) 
+Sei still, Blödmann! Lass mich die Sache regeln. Vergiss nicht, wir müssen immer logisch handeln. Der Bhaalsspross kann nicht einen weiteren Kampf mit uns wollen, <PRO_HESHE> hat andere Präferenzen. Wenn du aufhörst, rumzuheulen und mit mir zusammenarbeitest, werden wir die Oberhand behalten.~
+@255  = ~(linker Kopf) 
+Das sagst du doch jedes Mal! Ich will raus. Warum muss ich dir immer auf deinen geisteskranken Wegen folgen?~
+@256  = ~(rechter Kopf) 
+Weil es für dich keine andere Möglichkeit gibt, Schwächling! Nun höre mit deinem erbärmlichen Gemeckere auf und höre auf diejenigen, die Bescheid wissen!~
+@257  = ~<CHARNAME>, Ihr habt etwas in Eurem Besitz, das uns gehört, und Ihr lehnt es ab, dieses herauszugeben. Es sieht so aus, als wenn die einzige Möglichkeit, das Problem zu lösen, der Kampf zwischen uns ist. Für ein solches Duell existieren Regeln, und zwar der Art, dass selbst ein Prinz der Tanar'ri sich nicht darüber hinwegsetzen kann. Wir kennen Eure Fähigkeiten als Kämpfer, und da dies Eure Herrschaftsgebiet ist (obwohl dies im Moment umstritten ist), denken wir, dass Ihr uns eventuell immer noch überlegen seid. Aber es täte unserem Ruf einen zu grossen Abbruch, als dass wir die Sache auf sich beruhen lassen könnten. Deshalb schlagen wir Euch folgende Vorgehensweisen zur Auswahl vor.~
+@258  = ~Wollt Ihr mit uns um die Essenz des Verdammten kämpfen oder wählt Ihr den ehrenvollen Weg, das Ritual der drei Rätsel zu bestehen?~
+@259  = ~Rätsel? Was meint Ihr damit?~
+@260  = ~Wir werden Euch drei Rätsel stellen, <CHARNAME>. Wenn Ihr sie alle richtig bewantwortet, werden wir Eure Überlegenheit anerkennen und es wird in den ganzen niederen Ebenen bekannt werden, dass Ihr den Prinz der Dämonen in seinem eigenen Spiel nicht nur einmal, sondern sogar zweimal geschlagen habt! Ihr werdet den Verdammten bei Euch behalten dürfen und unsere Ergebenheit für tausend Jahre erlangen. Aber wenn Ihr versagt, ist der Preis Eure Seele, Bhaalskind!~
+@261  = ~Ich habe kein Interesse an intellektuellen Spielchen mit Dämonen, Höllenbrut. Lasst es uns in einem offenen Kampf austragen!~
+@262  = ~Sehr schön, dann will ich mal schauen, ob das Glück mir hold ist. Stellt Eure Fragen!~
+@263  = ~Lasst mich das erste Rätsel stellen, Abkömmling eines Gottes: was ist boshafter und dämonischer als wir? Die Toten verspeisen es und wenn es die Lebenden zu sich nehmen wollen, sterben sie?~
+@264  = ~Was für ein Unsinn! Für dieses Rätsel gibt es keine Lösung! Nichts ist bösartiger als Ihr und es ist sinnlos nach einer anderen Antwort zu suchen!~
+@265  = ~Nun vielleicht, Orcus? Der andere Dämonenprinz?~
+@266  = ~Graz’zt mit den sechs Fingern!~
+@267  = ~Ich wusste, dass <PRO_HESHE> falsch spielt!~
+@268  = ~Das zeite Rätsel ist einfach. Jeder von unseren Köpfen hat einen Namen, der eine ist bekannt als Aameul, der andere ist Hethradiah. Ihr könnt uns eine Frage stellen, die wir mit *ja* oder *nein* beantworten. Danach solltet Ihr in der Lage sein, uns zu sagen, welcher Kopf die Frage beantwortet hat!~
+@269  = ~Ruhe, Verdammter! Dafür werdet Ihr noch bezahlen! Wir sind der Meinung, dass diese Aufgabe nun für Euch zu einfach geworden ist, <CHARNAME>. Deswegen schwören wir bei unserer Unsterblichkeit, dass einer von uns wahrheitsgemäss antworten wird!~
+@270  = ~Wer ist denn hier derjenige, der die Unwahrheit spricht?~
+@271  = ~(linker Kopf) Mein Bruder ist der Lügner!~
+@272  = ~(rechter Kopf) Wir sagen beide die Wahrheit!~
+@273  = ~Ich frage den linken Kopf: Ist dein Name Aameul?~
+@274  = ~Ich frage den linken Kopf: Ist dein Name Hethradiah?~
+@275  = ~Ich frage den rechten Kopf: Ist dein Name Aameul?~
+@276  = ~Ich frage den rechten Kopf: Ist dein Name Hethradiah?~
+@277  = ~Ja.~
+@278  = ~Der Kopf, mit dem ich gesprochen habe, trägt den Namen Hethradiah.~
+@279  = ~Der Kopf, mit dem ich gesprochen habe, wird Aameul genannt.~
+@280  = ~Nein.~
+@281  = ~Ihr habt auch dieses Rätsel gelöst, Sterblicher, aber das dritte wird nicht so einfach sein!~~Ihr habt auch dieses Rätsel gelöst, Sterbliche, aber das dritte wird nicht so einfach sein!~
+@282  = ~Es gibt nur eine einzige Frage im Multiversum, die wir gezwungenermassen mit der Wahrheit beantworten müssen, um nicht inkonsistent zu werden, selbst wenn wir Euch am liebsten belügen wollten, <CHARNAME>. Und wir müssen konsistent bleiben, wenn wir nicht für immer getrennt werden wollen, deshalb müssen wir mit der Wahrheit antworten. Was ist diese Frage?~
+@283  = ~Die Frage ist : Seid Ihr der mächtigste Dämon im Abyss?~
+@284  = ~Die Frage ist : Werdet Ihr überhaupt auf diese Frage antworten?~
+@285  = ~Die Frage ist : Werdet Ihr diese Frage mit "ja" beantworten?~
+@286  = ~Die Frage ist : Wird das Universum zerstört werden, wenn der Blutkrieg jemals endet?~
+@287  = ~Die Frage ist : Welcher ist Euer wahrer Name?~
+@288  = ~Die Frage ist : Was ist die letztendliche Wahrheit?~
+@289  = ~Die Frage ist : Was ist mein wirklicher Name?~
+@290  = ~Die Frage ist : Werdet Ihr diese Frage mit "nein" beantworten?~
+@291  = ~(Hethradiah)
+Betrüger und Schwindler! Ihr kanntet die Antwort bereits!~
+@292  = ~(Aameull)
+Ich habe es dir ja gesagt, <PRO_HESHE> ist verschlagen! Was sollen wir nun tun?~
+@293  = ~Geschenkt, Dämon! Ich benötige Euch nicht, aber ich werde Euch zu mir rufen, um in meine Dienste zu treten, wenn ich mich mit meinem Geburtsrecht durchgesetzt habe!~
+

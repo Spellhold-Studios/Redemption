@@ -1,0 +1,50 @@
+@250  = ~Pas si vite petit dieu! Il semblerait qu'Amélissane veuille parier avec quelque chose qui n'est pas vraiment à elle. Il nous appartient de droit. Nous sommes les princes des abysses à la double volonté, maîtres de l'étrangeté, le roi des aberrations; rien ne nous attire plus qu'un grand mage elfe corrompu! Irenicus était condamné à la guerre sanglante pour l'éternité, et nous avons besoin de lui. Nous voulions le prêter à la prêtresse de Bhaal pendant un certain temps, en tant que châtiment et dans le but d'une future alliance. Mais c'est fini! Le sorcier elfe est très utile, et l'on ne risque pas de le perdre sans exiger un paiement d'avance.~
+@251  = ~Souhaites-tu vraiment en arriver à ta destruction finale, enfant des ténèbres? Je pourrais t'apporter ce que tu désires, car tu es entré dans le trône de sang, un petit plan des abysses ou mon pouvoir dépasse le tien, et ou je peux t'apporter la vraie mort!~
+@252  = ~Tu oses nous parler avec autant d'insolence, mortel? Bien que tu sois puissant, tu n'es pas encore un dieu. Ton ignorance est pathétique. Personne ne peut nous détruire hors de notre plan, pas même toi, Car notre immortalité est liée aux pierres même de Ungorth Reddik - notre forteresse dans les plus profonds et viciés des Abysses. Ha nous te voyons trembler en entendant ce nom, aspirant. Nous pensons que tu te rappelles bien la courte période passée en notre compagnie. Dommage, nous étions occupés à remodeler notre royaume abyssal après que <CHARNAME> nous ait relâchés de la prison de Heaum. Il est temps pour toi de retourner dans le lieu de l'ultime punition et nous apporterons une attention particulière à ce qui adviendra. Relâche Irenicus, <CHARNAME>, et nous partirons sans te causer le moindre souci. Nous avons tous deux de puissants ennemis, et nous sommes conscients des forces grandissantes. Il n'y a pas besoin d'une nouvelle confrontation.~
+@253  = ~(Tête gauche)
+Je t'ai dit qu' <PRO_HESHE> n'avalerait pas ça! Vas-tu enfin entendre raison? Non, comme toujours tu vas faire ce qu'il te chante!~ 
+@254  = ~(Tête droite) 
+Silence, imbécile! Laisse-moi faire. Rappelle-toi - Nous devons toujours rester logiques. L'enfant de Bhaal ne voudrait pas se battre avec nous de lui-même, <PRO_HESHE> a d'autres priorités. Si tu arrêtes de gémir et si tu coopères, nous pourrons nous en sortir haut la main.~
+@255  = ~(Tête gauche) 
+C'est ce que tu dis toujours! Je veux partir maintenant. Pourquoi dois-je toujours suivre tes plans stupides?~ 
+@256  = ~(Tête droite) 
+Parce que tu n'as pas le choix, minus, et moi non plus! Maintenant, arrête tes complaintes pathétiques et écoute tes aînés!~ 
+@257  = ~<CHARNAME>, tu as quelque chose qui nous appartient, et cependant tu refuses de l'abandonner. Il semblerait que nous n'ayons aucune autre option qu'un conflit direct. Il y a des lois à suivre dans un tel duel, des lois que même un prince Tanar'ri ne peut ignorer. Nous sommes conscients de tes prouesses au combat, et sachant que tu es dans ton territoire (bien qu'il te soit disputé), je suppose que tu pourrais nous battre à nouveau. Et cela coûterait beaucoup à notre réputation si nous laissions les choses ainsi sans intervenir. Cependant, nous allons t'offrir le choix de la manière de résoudre ce problème.~ 
+@258  = ~Vas-tu nous combattre pour l'elfe ou vas-tu t'honorer en acceptant l'ancien rituel des trois énigmes?~
+@259  = ~Des énigmes? Que voulez vous dire?~
+@260  = ~Nous te poserions trois questions, <CHARNAME>. Si tu réponds correctement aux trois, nous accepterons ta supériorité, et tout le monde dans les plans saura que tu as battu le prince des démons à son propre jeu, non pas une, mais deux fois! Tu garderas le mage et tu nous affaibliras pour un millier d'années. Mais si tu échoues, le prix sera ton âme, enfant de Bhaal!~
+@261  = ~Je n'aime pas trop les jeux intellectuels, fils des enfers. Résolvons ce problème par un combat ouvert!~
+@262  = ~Très bien, je tente ma chance, pose tes questions!~
+@263  = ~Laisse moi te poser la première question, enfant de dieu: Qui est plus grand en vilénie et plus puissant démon que nous; le mort le mange; et si le vivant le mange, il en mourra?~
+@264  = ~Quel non-sens! Cette énigme n'a pas de réponse! Rien n'est plus vil que vous, et il serait ridicule de donner une autre réponse!~
+@265  = ~Peut être, Orcus? L'autre prince des Démons?~
+@266  = ~Graz'zt aux six doigts!~
+@267  = ~Je sais qu' <PRO_HESHE> a triché!~
+@268  = ~La seconde énigme est facile - chacune de nos têtes a un nom, l'une est connue sous Aameul, l'autre est Hethradiah. Tu peux nous poser une question à chacun à laquelle nous répondrons par *oui* ou *non*. Après cela te devra être capable de nous dire à quelle tête tu as parlé!~
+@269  = ~Silence, elfe! Tu paieras pour cela! Il t'a rendu la tâche trop facile, <CHARNAME>. Dans ce cas, nous jurons sur notre immortalité que l'un de nous dira la vérité!~
+@270  = ~Qui mentira alors?~
+@271  = ~(Tête de gauche) Mon frère est le menteur!~
+@272  = ~(Tête de droite) Nous dirons tous les deux la vérité!~
+@273  = ~Demander à la tête de gauche: est-il vrai que ton nom est Aameul?~
+@274  = ~Demander à la tête de gauche: est-il vrai que ton nom est Hethradiah?~
+@275  = ~Demander à la tête de droite: est-il vrai que ton nom est Aameul?~
+@276  = ~Demander à la tête de droite: est-il vrai que ton nom est Hethradiah?~
+@277  = ~Oui~
+@278  = ~Je viens de parler à Hethradiah~
+@279  = ~Je viens de parler à Aameul~
+@280  = ~Non~
+@281  = ~Tu as encore raison, mortel, mais la troisième fois ce ne sera pas si facile!~ 
+@282  = ~Il y a une et une seule question dans le multivers à laquelle nous serons forcés de répondre en disant la vérité si nous voulons rester logiques, et même si nous voulions te mentir, <CHARNAME>. Et comme nous voudrons rester logiques pour garder nos deux esprits ensemble, nous te répondrons par la vérité. Quelle est-elle?~
+@283  = ~La question est : Es-tu le démon le plus puisant des abysses?~
+@284  = ~La question est : Vas-tu répondre à ma question?~
+@285  = ~La question est : Vas-tu répondre par *oui* à ma question?~
+@286  = ~La question est : L'univers va-t'il être détruit par la guerre sanglante si elle ne s'arrête?~
+@287  = ~La question est : Quel est ton vrai nom?~
+@288  = ~La question est : Quelle est la verité ultime?~
+@289  = ~La question est : Quel est mon vrai nom?~
+@290  = ~La question est : Va-tu répondre par *non* à ma question?~
+@291  = ~(Hethradiah)
+Tricheur! Tu connaissais déjà ces questions!~
+@292  = ~(Aameull)
+Je t'avais dit qu' <PRO_HESHE> était terrible! Maintenant que fait-on?~
+@293  = ~Vas-t'en, enfant de démon! Je n'ai pas besoin de toi, mais sois sûr que je m'occuperai de toi, dès que j'aurai fait valoir mon droit de naissance!~

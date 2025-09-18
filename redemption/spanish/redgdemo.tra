@@ -1,0 +1,50 @@
+@250  = ~­No tan rápido! Parece que Amelyssan está intentando jugar con algo que no es suyo realmente. El apelante es nuestro por derecho. Nosotros somos el duo dispiesto de los Príncipes del Abismo, Maestros de lo bizarro, los reyes de las aberraciones; ­No hay nada más atractivo para nosotros que un alto mago elfo corrupto! Irenucus fue sentenciado a la Guerra de la Sangre por toda la eternidad, y aún tenemos necesidad de él. Estábamos ansiosos de prestar su esencia a las sacerdotisas de Bhaal por un tiempo, para la recompensa y la promesa de futuras alianzas. ­Pero nada más! El hechicero elfo es un bien valioso, y el único que no nos arriesgaremos a perder sin una buena compensación.~
+@251  = ~Deseas tu última destrucción, engendro del infierno? Te concederé ese deseo, desde ahora has entrado al Trono de la Sangre, un mini-plano del abismo donde mis poderes son superiores a los tuyos, ­y donde puedo concederte la verdadera muerte!~
+@252  = ~Te atreves a hablarnos de esa manera tan insolente, mortal? Aunque tienes mucho poder, aún no eres un dios. Tu ignorancia es patética. Nadie puede destruirnos mientras estemos fuera de nuestro plano, ni siquiera tu, puesto que nustra inmortalidad está soldada a las piedras de Ungorth Reddik, nuestra fortaleza en la más profunda y corrupta ciénaga del Abismo. Ah, vemos como tiemblas antes el nombre, reclamante. Confiamos en que recuerdes bien el corto lapso que duró nuestra custodia. Muy mal, nosotros estouvimos ocupados ajustándo nuestro rieino abisal luego de nuestra liberación de la prisión de Helmo por <CHARNAME>. Es tiempo para ti de regresar a tu último castigo, y esta vez te prometemos nuestra atención personal. Pasa a Irenicus por encima de <CHARNAME>, y nos iremos sin causarte más problemas. Ambos tenemos poderosos enemigos, y tenemos conocimiento de tu creciente influencia. No hay necesidad para otra confrontación.~
+@253  = ~(Cabeza izquierda)
+­Te lo dije, <PRO_HESHE> no tiene la intención de comprar esto! Pero tu alguna vez escuchaste a la razón? ­No, tu siempre tienes que hacer todo a tu manera!~
+@254  = ~(cabeza derecha) 
+­Estate quieto, imbécil! Déjame manejar esto. Recuerda que siempre debemos permanecer lógicos. El enjendro de Bhaal no querría tener otra batalla contra nosotros en sus manos, <PRO_HESHE> tiene otras prioridades. Si quieres detener tu lloriqueo y cooperar, aún podremos sacar ventaja.~
+@255  = ~(cabeza izquierda) 
+­Eso es lo que siempre dices! Yo quiero estar fuera de aquí ahora. Por qué siempre tengo que seguir tus absurdos planes?~
+@256  = ~(cabeza derecha) 
+­Porque no tienes otra opción, debilucho! Ahora, para tu patético llanto y escúchame bien!~
+@257  = ~<CHARNAME>, tu tienes algo que es nuestro, y aún te rehusas a devolverlo. Parece que no tenemos otra opción sino una pelea abierta. Hay reglas a seguir en un duelo como este, reglas que aún un Príncipe Tanar'ri no puede sino obedecer. Somos conscientes de tus proezas como guerrero, y puesto que este es tu dominio (a pesar de que aún se disputa), suponemos que serías mejor que nosotros de nuevo. Pero nos causará una gran pérdida de reputación el dejar que las cosas queden como están. Por lo tanto, te ofreceremos un método alternativo para resolver este pequeño asunto.~ ~<CHARNAME>, tu tienes algo que es nuestro, y aún te rehusas a devolverlo. Parece que no tenemos otra opción sino una pelea abierta. Hay reglas a seguir en un duelo como este, reglas que aún un Príncipe Tanar'ri no puede sino obedecer. Somos conscientes de tus proezas como guerrera, y puesto que este es tu dominio (a pesar de que aún se disputa), suponemos que serías mejor que nosotros de nuevo. Pero nos causará una gran pérdida de reputación el dejar que las cosas queden como están. Por lo tanto, te ofreceremos un método alternativo para resolver este pequeño asunto.~
+@258  = ~Pelearás con nosotros por la escencia del apelado o te honrarías aceptando seguir al antiguo Ritual de los Tres Acertijos?~
+@259  = ~Acertijos? Qué quieres decir con eso?~
+@260  = ~Nosotros te pondremos tres acertijos,  <CHARNAME>. Si tu los contestas todos correctamente, aceptaremos tu supremacía, ­y será conocido a lo largo de los Planos que has derrotado al Príncipe de los Demonios en su propio juego no una vez sino dos! Mantendrás contigo al apelado y tendrás nuestra inquebrantable obediencia por mil años. ­Pero si fallas, el precio será tu alma, Hijo de Bhaal!~ ~Nosotros te pondremos tres acertijos,  <CHARNAME>. Si tu los contestas todos correctamente, aceptaremos tu supremacía, ­y será conocido a lo largo de los Planos que has derrotado al Príncipe de los Demonios en su propio juego no una vez sino dos! Mantendrás contigo al apelado y tendrás nuestra inquebrantable obediencia por mil años. ­Pero si fallas, el precio será tu alma, Hija de Bhaal!~
+@261  = ~No me gusta jugar juegos de inteligencia con demonios, enjendro del infierno. ­Vamos a resolver esto en un combate abierto!~
+@262  = ~Muy bien, ya estoy viendo mi oportunidad. ­Pregunta!~
+@263  = ~Permíteme ponerte el primer acertijo: Qué es lo que es más grande en maldad y un demonio más poderoso que yo?; a los muertos los alimenta, y con todo, si los vivos se alimentan de él, mueren?~
+@264  = ~­Vaya una tontería! ­Ese acertijo no tiene respuesta! ­Nada puede ser más vil que tu, y es descabellado dar otra respuesta!~
+@265  = ~Ta vez, Orcus? El otro Príncipe Demonio?~
+@266  = ~­Graz'zt el de seis dedos!~
+@267  = ~­Sé que <PRO_HESHE> ha hecho trampa!~
+@268  = ~El segundo acertijo es simple. Cada una de nuestras cabezas tiene un nombre, una es llamada Aameul, la otra es Hethradiah. Puedes hacernos sólo una pregunta a la cual podremos contestar con un simple *si* o *no*. Luego de eso, estarás permitido a decirnos, cuál cabeza lleva que nombre.~
+@269  = ~­Silencio, apelado! ­Tu pagarás por esto! Pensamos que el te lo hizo demasiado fácil, <CHARNAME>. ­Por lo cual, juraremos por nuestra inmortalidad que uno de nosotros responderá la verdad!~
+@270  = ~Quién está mintiendo entonces?~
+@271  = ~(cabeza izquierda) ­Mi hermano es el mentiroso!~
+@272  = ~(cabeza derecha) ­Ambos estamos diciendo la verdad!~
+@273  = ~Preguntar a la cabeza izquierda: Es verdad que tu nombre es Aameul?~
+@274  = ~Preguntar a la cabeza izquierda: Es verdad que tu nombre es Hethradiah?~
+@275  = ~Preguntar a la cabeza derecha: Es verdad que tu nombre es Aameul?~
+@276  = ~Preguntar a la cabeza derecha: Es verdad que tu nombre es Hethradiah?~
+@277  = ~Si~
+@278  = ~La cabeza de la que hablé se llama Hethradiah~
+@279  = ~La cabeza de la que hablé se llama Aameul~
+@280  = ~No~
+@281  = ~­Estás en lo correcto de nuevo <PRO_MANWOMAN> mortal, pero la tercera vez no será tan fácil!~
+@282  = ~Sólo hay una pregunta que existe en el Multiverso a la cual seremos forzados a responder con sinceridad si queremos permanecer lógicos, aún cuando deseemos mentirte, <CHARNAME>. Y como tenemos que permanecer lógicos para mantener ambas mentes separadas por siempre, tendremos que responder la verdad. Cuál es?~
+@283  = ~La pregunta es: Eres tu el más poderoso demonio del Abismo?~
+@284  = ~La pregunta es: Responderás algo a esta pregunta?~
+@285  = ~La pregunta es: Responderás que 'si' a esta pregunta?~
+@286  = ~La pregunta es: Será el universo destruido en cuanto finalice la Guerra de la Sangre?~
+@287  = ~La pregunta es: Cuál es tu verdadero nombre?~
+@288  = ~La pregunta es: Cuál es la última verdad?~
+@289  = ~La pregunta es: Cuál es mi verdadero nombre?~
+@290  = ~La pregunta es: Responderás que 'no' a esta pregunta?~
+@291  = ~(Hethradiah)
+­Tramposo y fraudulento! ­Sabías la rspuesta todo el tiempo!~
+@292  = ~(Aameull)
+­Te dije que <PRO_HESHE> era un retorcido! Ahora qué haremos?~
+@293  = ~­Fuera de aquí, engendro del demonio! No tengo necesidad de ti ahora, pero estoy seguro que te exigiré tus servicios, ­tan pronto como reclame mi derecho de nacimiento!~

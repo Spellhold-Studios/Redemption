@@ -1,0 +1,157 @@
+/******************************************************************************************
+* Redemption v 1.2.0   last update on 05.09.04
+*
+* http://www.onlinefiction.net/Redemption/Redemption.html
+*
+* Special Note: To play this mod you will need to have 
+* BOTH 'ToB' AND 'Ascension v1.4.xx' from
+*
+* http://www.cs.berkeley.edu/~weimer/bgate
+*
+* No other combination will suffice. You may have *any* other WEIDU mods installed.
+*
+* Non-WEIDU mods will *not* work !!!
+*******************************************************************************************/
+
+BACKUP ~redemption/backup~
+AUTHOR ~ladydorotea@hotmail.com  (http://www.onlinefiction.net/Redemption/Redemption.html)~
+
+AUTO_TRA ~redemption/%s~
+
+/////////////////////////////////////////////////////////////////////////
+//  Language Options
+//
+//  American english, spanish, french, and german versions are available
+/////////////////////////////////////////////////////////////////////////
+LANGUAGE ~American English~
+         ~american~
+         ~redemption/american/redemption.tra~
+         
+LANGUAGE ~Traducción al Español (hecha por Clan DLAN)~
+         ~spanish~
+         ~redemption/spanish/redemption.tra~
+         
+LANGUAGE ~Francais (traduction de Nickolas Bard the 'Cocobard', Jean Trouveroy 'the Cursed')~
+         ~french~
+         ~redemption/french/redemption.tra~
+         
+LANGUAGE ~Deutsche Sprache (sbersetzung durch Maus & Dyara)~
+         ~german~ 
+         ~redemption/german/redemption.tra~
+
+
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+// Redemption
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+BEGIN @0
+
+REQUIRE_FILE ~Data/25Dialog.bif~ 
+@1 // ToB sanity check
+REQUIRE_FILE ~override/BODHIND.2da~
+@2 // Ascension check
+
+//Compile dialogs
+COMPILE
+~redemption/dlg/redirenic.d~
+~redemption/dlg/redmel.d~
+~redemption/dlg/redbodhi.d~
+~redemption/dlg/redsolar.d~
+~redemption/dlg/redplayer1.d~
+~redemption/dlg/jonel25j.d~
+~redemption/dlg/jonel25p.d~
+~redemption/dlg/redgdemo.d~
+
+
+//Copy files without strings  creature files, bitmaps
+COPY ~redemption/cre/IDR01.cre~ 	~override/IDR01.cre~
+COPY ~redemption/cre/IDR02.cre~ 	~override/IDR02.cre~
+COPY ~redemption/cre/IDR03.cre~ 	~override/IDR03.cre~
+COPY ~redemption/cre/yoshi.cre~ 	~override/yoshi.cre~
+COPY ~redemption/cre/JONELETH.cre~ 	~override/JONELETH.cre~
+COPY ~redemption/bmp~			~override~
+
+APPEND ~pdialog.2da~
+~FINIREN      Jonel25P           Jonel25J          Jonel25D       Jonel25P           Jonel25J            Jonel25D              ***~
+UNLESS ~FINIREN~
+IF ~25POST~
+
+APPEND ~interdia.2da~
+~FINIREN         NONE      BJONEL25~
+UNLESS ~FINIREN~
+
+//Copy files w strings
+COPY ~redemption/cre/finbab.cre~ 	~override/finbab.cre~
+SAY NAME1 @3
+SAY NAME2 @3
+
+COPY ~redemption/cre/finiren.cre~ 	~override/finiren.cre~
+SAY 0x1CC @4
+
+COPY ~redemption/spl/jonchng.spl~	~override/jonchng.spl~
+SAY 8 @5
+SAY 0x18E @6
+
+COPY_EXISTING ~demogor2.cre~ ~override/demogor3.cre~
+WRITE_ASCII 0x34 ~demos~
+WRITE_ASCII 0x2CC ~redgdemo~
+WRITE_ASCII 0x280 ~demogor3~
+WRITE_LONG 0x270 "128" //neutral
+WRITE_LONG 0x271 "255" //monster
+WRITE_LONG 0x272 "121" //demonic
+WRITE_LONG 0x273 "160" //tanari
+WRITE_LONG 0x274 "60" //unknown
+WRITE_LONG 0x275 "4" //nether
+
+
+COPY ~redemption/itm/copy~				~override~
+
+COPY ~redemption/itm/JONNEC.itm~			~override~
+  SAY NAME2 @7 
+  SAY DESC @8
+
+//bcs files
+EXTEND_TOP ~cut233h.bcs~	~redemption/bcs/cut233h.bcs~ //get rid of the cloak o'cheese in the cutscenes to follow
+
+COPY_EXISTING ~AR6200.bcs~ ~override/AR6200.bcs~
+REPLACE_BCS_BLOCK ~redemption/bcs/AR6200asc.bcs~ ~redemption/bcs/AR6200jon.bcs~ 
+REPLACE_BCS_BLOCK ~redemption/bcs/AR6200asc_bot.bcs~ ~redemption/bcs/AR6200jon_bot.bcs~ 
+
+COPY_EXISTING ~imoslay.bcs~	~override/imoslay.bcs~
+REPLACE_BCS_BLOCK ~redemption/bcs/imoslay_jon.bcs~ ~redemption/bcs/imoslay_red.bcs~
+
+COPY_EXISTING ~finiren.bcs~	~override/finiren.bcs~
+REPLACE_BCS_BLOCK ~redemption/bcs/finiren_jon.bcs~ ~redemption/bcs/finiren_red.bcs~
+
+//add music 
+MKDIR ~music/MxTrem1~
+COPY ~redemption/music/MxTrem1.mus~ ~music/MxTrem1.mus~
+COPY ~redemption/music/MxTrem1/MxTrem1A.acm~ ~music/MxTrem1/MxTrem1A.acm~
+ADD_MUSIC ~MxTrem1~	~redemption/music/MxTrem1.mus~
+
+COPY ~redemption/bcs/copy~		~override~
+REPLACE 999994 @9
+REPLACE 999995 @10
+REPLACE 999997 @11
+REPLACE_TEXTUALLY 999996 ~%MxTrem1%~
+REPLACE 999998 @12
+
+COPY ~redemption/epilogues~		~override~
+REPLACE ~999999~ @13
+
+AT_INTERACTIVE_EXIT ~notepad redemption\Redemption-WeiDU.txt~
+
+BEGIN ~New Portrait for Irenicus - for the Ascension/Redemption part only (from the 'Jon with blue flame' poster by Bio)~
+REQUIRE_FILE ~Data/25Dialog.bif~ @1 // ToB sanity check
+COPY ~redemption/cre/finiren.cre~ 	~override/finiren.cre~
+SAY 0x1CC @4
+WRITE_ASCII 0x34 ~JonIS~
+WRITE_ASCII 0x3c ~JonIM~
+
+
+
+
+
+
+  
